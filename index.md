@@ -14,22 +14,22 @@ Greetings,
 
 I'm Professor Amanda Hoaglen. Thank you for visiting my webpage. Please view my resume, portfolio of writing samples, and links to organizations that I work with or support.
 
-My Course Objectives and Learning Centered Statement
+### My Course Objectives and Learning Centered Statement
 
 By providing you with an abundance of resources, context, and information, 
 my students' critical thinking abilities and communication skills will vastly expand. I want my students to become informed and educated citizens. I want them to experience enlightenment.
 
-#### Amanda's Academic Background
+### Amanda's Academic Background
 
 A graduate of Rollins College, I earned my Master of Liberal Studies in 2009 and Bachelor of Arts in Humanities in 2004. To further my content knowledge, I completed a Masters of Arts degree in English Literature at the University of West Florida in 2023.
 
-##### Amanda's Professional Background
+### Amanda's Professional Background
 I consider myself a educator for emerging adult learners. As a humanities and English composition instructor, as well as Communications Support Center, supervisor at Valencia College, I believe that kindness, experiential learning, and coaching students through the writing process remain essential to the learning process. 
 
-###### Research Interests
+### Research Interests
 Being a scholar of interdisciplinary humanities, my interests are ecclectic and include is in poetry, ancient humanities, art history, women's studies, the environment, critical media studies, and social justice pedagogy. My favorite philosophers are Plato and Foucault, and my favorite poet is Anne Sexton. 
 
-Additionally, I want to investigate play and pedagogy during my time in the Texts and Technology doctorate at UCF.
+Additionally, I want to investigate play and pedagogy during my time in the Texts and Technology doctorate program at UCF.
 - The use of role-playing games as a means to facilitate course content to college students.
 - In-person and digital role-playing games to nurture active learning in my classroom.
 - Alternative teaching methods and texts that encourage student engagement.
