@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Your Name
+# Amanda Hoaglen
 
-![Amanda Hoaglen](images/AmandaHoaglen.JPG)
+img src="images/AmandaHoaglen.JPG" alt=Amanda Hoaglen" width="300"
 
 ## About Me
 
