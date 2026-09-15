@@ -5,7 +5,7 @@ title: Home
 
 # Amanda Hoaglen
 
-img src="images/AmandaHoaglen.JPG" alt=Amanda Hoaglen" width="300"
+![Amanda Hoaglen] (images/AmandaHoaglen.JPG)
 
 ## About Me
 
