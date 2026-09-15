@@ -24,7 +24,7 @@ A graduate of Rollins College, I earned my Master of Liberal Studies in 2009 and
 I consider myself a educator for emerging adult learners. As a humanities and English composition instructor, as well as Communications Support Center, supervisor at Valencia College, I believe that kindness, experiential learning, and coaching students through the writing process remain essential to the learning process. 
 
 ### Research Interests
-Being a scholar of interdisciplinary humanities, my interests are ecclectic and include is in poetry, ancient humanities, art history, women's studies, the environment, critical media studies, and social justice pedagogy. My favorite philosophers are Plato and Foucault, and my favorite poet is Anne Sexton. 
+Being a scholar of interdisciplinary humanities, my interests are ecclectic and include poetry, Athenian philosophy, art history, women's studies, the environment, critical media studies, and social justice pedagogy. My favorite philosophers are Plato and Foucault, and my favorite poet is Anne Sexton. 
 
 Additionally, I want to investigate play and pedagogy during my time in the Texts and Technology doctorate program at UCF.
 - The use of role-playing games as a means to facilitate course content to college students.
