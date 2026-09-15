@@ -16,8 +16,7 @@ I'm Professor Amanda Hoaglen. Thank you for visiting my webpage. Please view my 
 
 ### My Course Objectives and Learning Centered Statement
 
-By providing you with an abundance of resources, context, and information, 
-my students' critical thinking abilities and communication skills will vastly expand. I want my students to become informed and educated citizens. I want them to experience enlightenment.
+By providing you with an abundance of resources, context, and information, my students' critical thinking abilities and communication skills will vastly expand. I want my students to become informed and educated citizens. I want them to experience enlightenment.
 
 ### Amanda's Academic Background
 
@@ -34,9 +33,7 @@ Additionally, I want to investigate play and pedagogy during my time in the Text
 - In-person and digital role-playing games to nurture active learning in my classroom.
 - Alternative teaching methods and texts that encourage student engagement.
 
-At this point in my career, my goal is to expand my teaching portfolio by teaching upper-level English courses at UCF, complete my doctorate at UCF, and publish two manuscripts of poetry.
-
-I look forward to sharing my passion for learning with you.
+At this point in my career, my goal is to expand my teaching portfolio by teaching upper-level English courses at UCF, complete my doctorate at UCF, and publish two manuscripts of poetry. I look forward to sharing my passion for learning, the humanities, and writing with you.
 
 Cheers,
 
