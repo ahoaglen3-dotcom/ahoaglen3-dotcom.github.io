@@ -9,14 +9,16 @@ title: Home
 
 ## About Me
 
+Greetings,
+
 I'm Professor Amanda Hoaglen. Thank you for visiting my webpage. Please view my resume, portfolio of writing samples, and links to organizations that I work with or support.
 
-My Course Objectives and Learning Centered Statement
+##My Course Objectives and Learning Centered Statement
 
 By providing you with an abundance of resources, context, and information, 
 my students' critical thinking abilities and communication skills will vastly expand. I want my students to become informed and educated citizens. I want them to experience enlightenment.
 
-About Professor Hoaglen
+##About Professor Hoaglen
 
 A graduate of Rollins College, I earned my Master of Liberal Studies in 2009 and Bachelor of Arts in Humanities in 2004. To further my content knowledge, I completed a Masters of Arts degree in English Literature at the University of West Florida in 2023.
 
