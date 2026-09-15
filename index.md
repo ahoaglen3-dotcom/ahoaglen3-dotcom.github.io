@@ -5,7 +5,7 @@ title: Home
 
 # Amanda Hoaglen
 
-![Amanda Hoaglen](images/AmandaHoaglen.JPG/600x300)
+![Amanda Hoaglen](images/AmandaHoaglen.JPG)
 
 ## About Me
 
