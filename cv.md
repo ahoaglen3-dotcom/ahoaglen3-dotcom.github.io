@@ -27,7 +27,7 @@ I am a student of the human condition and a lifelong educator. My assets include
 
 - **Ph.D., Texts and Technology** — University of Central Florida, Orlando, FL *(anticipated 2029)*
 - **M.A., English Literature** — University of West Florida, Pensacola, FL
-- **M.A., Liberal Studies in Humanities** — Rollins College, Winter Park, FL
+- **M.L.S., Liberal Studies in Interdisciplinary Humanities** — Rollins College, Winter Park, FL
 - **B.A., Humanities** — Rollins College, Winter Park, FL
 
 ## Teaching Philosophy
