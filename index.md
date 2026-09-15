@@ -6,13 +6,11 @@ title: Amanda Hoaglen - Academic Portfolio
 ![Amanda Hoaglen](images/AmandaHoaglen.JPG)
 
 # Amanda Hoaglen
-## Teaching Lab Supervisor and Professor of English Composition and Humanities
+## Educator and Writer
 
 ### About Me 
 
-Greetings,
-
-I'm Professor Amanda Hoaglen. Thank you for visiting my webpage. Please view my resume, portfolio of writing samples, and links to organizations that I work with or support.
+Greetings! I'm Professor Amanda Hoaglen. Thank you for visiting my webpage. Please view my resume, portfolio of writing samples, and links to organizations that I work with or support.
 
 ### My Course Objectives and Learning Centered Statement
 
