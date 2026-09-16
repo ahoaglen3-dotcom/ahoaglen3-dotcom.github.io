@@ -156,3 +156,12 @@ By providing students with an abundance of primary resources, historical context
 - Master of Liberal Studies Scholarship — Rollins College, 2005–2007
 - Career Staff Book Scholarship — Valencia College, 2005
 - Rollins College Scholarship — 2003
+
+
+## Navigation
+
+- [Home](index.md)
+
+- [Research / Projects](projects.md)
+
+- [Teaching](teaching.md)
