@@ -21,10 +21,10 @@ By providing you with an abundance of resources, context, and information, my st
 A graduate of Rollins College, I earned my Master of Liberal Studies in 2009 and Bachelor of Arts in Humanities in 2004. To further my content knowledge, I completed a Masters of Arts degree in English Literature at the University of West Florida in 2023.
 
 ### Amanda's Professional Background
-I consider myself a educator for emerging adult learners. As a humanities and English composition instructor, as well as Communications Support Center, supervisor at Valencia College, I believe that kindness, experiential learning, and coaching students through the writing process remain essential to the learning process. 
+I consider myself a educator for emerging adult learners. As a humanities and English composition instructor, as well as writing center supervisor at my campus. I believe that kindness, experiential learning, and coaching students through the writing process remain essential to the learning process. 
 
 ### Research Interests
-Being a scholar of interdisciplinary humanities, my interests are ecclectic and include poetry, Athenian philosophy, art history, women's studies, the environment, critical media studies, and social justice pedagogy. My favorite philosophers are Plato and Foucault, and my favorite poet is Anne Sexton. 
+Being a scholar of interdisciplinary humanities, my interests are ecclectic and include poetry, Athenian philosophy, art history, critical media and women's studies, environment advocacy, and social justice pedagogy. My favorite philosophers are Plato and Foucault, and my favorite poet is Anne Sexton. 
 
 Additionally, I want to investigate play and pedagogy during my time in the Texts and Technology doctorate program at UCF.
 - The use of role-playing games as a means to facilitate course content to college students.
