@@ -3,7 +3,7 @@ layout: default
 title: Amanda Hoaglen - Academic Portfolio
 ---
 
-![Amanda Hoaglen](images/AmandaHoaglen.JPG)
+![Amanda Hoaglen](images/AmandaHoaglen25thworkyear.JPG)
 
 # Amanda Hoaglen
 ## Educator and Writer
