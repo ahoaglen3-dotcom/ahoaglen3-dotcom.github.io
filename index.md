@@ -41,6 +41,8 @@ Professor H.
 
 - [CV](cv.md)
 
+- [Social Media](socialmedia.md)
+
 - [Research / Projects](projects.md)
 
 - [Teaching](teaching.md)
