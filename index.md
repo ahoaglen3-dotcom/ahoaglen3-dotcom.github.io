@@ -6,24 +6,24 @@ title: Amanda Hoaglen - Academic Portfolio
 ![Amanda Hoaglen](images/AmandaHoaglen25thworkyear.jpg)
 
 # Amanda Hoaglen
-## *Leader, Writer, and Educator*
+### *Leader, Writer, and Educator*
 
-### About Me 
+## About Me 
 
 Greetings! I'm Professor Amanda Hoaglen. Thank you for visiting my webpage. Please view my resume, portfolio of writing samples, and links to organizations that I work with or support.
 
-### My Course Objectives and Learning Centered Statement
+## My Course Objectives and Learning Centered Statement
 
 By providing you with an abundance of resources, context, and information, my students' critical thinking abilities and communication skills will vastly expand. I want my students to become informed and educated citizens. I want them to experience enlightenment.
 
-### Amanda's Academic Background
+## Amanda's Academic Background
 
 A graduate of Rollins College, I earned my Master of Liberal Studies in 2009 and Bachelor of Arts in Humanities in 2004. To further my content knowledge, I completed a Masters of Arts degree in English Literature at the University of West Florida in 2023.
 
-### Amanda's Professional Background
+## Amanda's Professional Background
 I consider myself a educator for emerging adult learners. As a humanities and English composition instructor, as well as writing center supervisor at my campus. I believe that kindness, experiential learning, and coaching students through the writing process remain essential to the learning process. 
 
-### Research Interests
+## Research Interests
 Being a scholar of interdisciplinary humanities, my interests are ecclectic and include poetry, Athenian philosophy, art history, critical media and women's studies, environment advocacy, and social justice pedagogy. 
 
 Additionally, I want to investigate play and pedagogy during my time in the Texts and Technology doctorate program at UCF.
