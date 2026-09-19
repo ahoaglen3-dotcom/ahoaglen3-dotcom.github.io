@@ -58,15 +58,6 @@ By providing students with an abundance of primary resources, historical context
 - Grow Writing Center patronage
 - Plan student programming, including writing contests and the writing festival
 
-### Professor — Southern New Hampshire University *(2024–Present)*
-
-- Instruct online humanities courses: Self, Society, and Humanities; Culture and Creativity
-- Manage virtual classroom environment; provide feedback via Zoom, email, announcements, and rubric comments
-- Hold student engagement hours via Zoom
-- Evaluate student progress and implement interventions
-- Support curriculum aligned with SNHU's learning outcomes and Faculty Fundamental Requirements (FFR)
-- Provide additional Open Education Resources
-
 ### Content and Test Prep Tutor — MyTutorology, Inc., Lake Mary, FL *(2018–2024)*
 
 - Coached students one-on-one in English/literature, social sciences/history, and test prep (FSA, SAT, ACT, CARS/MCAT)
