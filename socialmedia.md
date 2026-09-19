@@ -3,7 +3,8 @@ layout: default
 title: Social Media
 ---
 
-# Professor Hoaglen
+# Amanda Hoaglen
+## *Leader, Writer, Educator*
 
 ## Social Media
 

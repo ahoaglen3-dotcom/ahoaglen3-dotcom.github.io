@@ -2,6 +2,8 @@
 layout: default
 title: CV
 ---
+# Amanda Hoaglen
+## *Leader, Writer, and Educator*
 
 # Curriculum Vitae
 
