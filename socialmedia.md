@@ -15,7 +15,7 @@ title: Social Media
 
 ## Professional Affiliations
 
-- [Texts and Technology Doctorate Program, University of Central Florida](https://cah.ucf.edu/textstech/)
+- [Texts and Technology Ph.D., University of Central Florida](https://cah.ucf.edu/textstech/)
 
 - [Learning Support, Valencia College](https://valenciacollege.edu/students/learning-support/index.php)
 
