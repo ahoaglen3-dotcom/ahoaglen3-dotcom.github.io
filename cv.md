@@ -5,7 +5,10 @@ title: Curriculum Vitae
 # Amanda Hoaglen
 ## *Leader, Writer, and Educator*
 
-# CV
+# Curriculum Vitea
+
+* TOC
+{:toc}
 
 ## Professional Summary
 
