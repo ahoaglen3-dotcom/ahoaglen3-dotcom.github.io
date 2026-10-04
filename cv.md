@@ -7,8 +7,16 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-* TOC
-{:toc}
+- [Professional Summary](#professional-summary)
+- [Key Qualifications and Skills](#key-qualifications-and-skills)
+- [Education](#education)
+- [Teaching Philosophy](#teaching-philosophy)
+- [Professional Experience](#professional-experience)
+- [College Service](#college-service)
+- [Conferences & Faculty Development](#conferences--faculty-development)
+- [Notable Presentations](#notable-presentations)
+- [Notable Projects and Publications](#notable-projects-and-publications)
+- [Awards](#awards)
 
 ## Professional Summary
 
