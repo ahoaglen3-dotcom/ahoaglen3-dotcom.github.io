@@ -5,7 +5,7 @@ title: Amanda Hoaglen - Academic Portfolio
 
 <img src="/assets/featured-image.jpg" alt="Amanda Hoaglen" width="250" style="float: left; margin-right: 20px; margin-bottom: 10px;">
 
-# Professor and Ph.D. Student
+# Professor & Ph.D. Student
 
 ## About Me 
 I consider myself an educator for emerging adult learners. As a humanities and English composition instructor, as well as writing center supervisor at my campus, I believe that kindness, experiential learning, and coaching students through the writing process remain essential to the learning process. By providing students with an abundance of resources, context, and information, my students' critical thinking abilities and communication skills will vastly expand. I want my students to become informed and educated citizens. I want them to experience enlightenment.
@@ -16,7 +16,6 @@ At this point in my career, my goal is to expand my teaching portfolio by teachi
 
 <div style="clear: both;"></div>
 
-- [About Me](#about-me)
 - [Research Interests](#research-interests)
 - [Presentations](#presentations)
 - [Publications](#publications)
@@ -47,11 +46,9 @@ Additionally, I want to investigate play and pedagogy during my time in the Text
 - WPC Safety and Crisis Management Team Handbook - 2005
 - FACC Handbook - 2003
 
-## Contact
+### Contact or Follow Me
 - Email: am056240@ucf.edu 
 - Office: UCF, Trevor Colbourn Hall, Suite 236 
-
-### Follow Me
 - [LinkedIn](http://linkedin.com/in/amanda-hoaglen)
 - [Facebook](https://www.facebook.com/amanda.arb3)
 - [Instagram](https://www.instagram.com/arh.1066/)
