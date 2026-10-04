@@ -5,11 +5,7 @@ title: Amanda Hoaglen - Academic Portfolio
 
 ![Featured Image](/assets/featured-image.jpg)
 
-# Amanda Hoaglen
-
-## Professor of English Composition & Humanities and Teaching Lab Supervisor
-
-### *Leader, Writer, and Educator*
+# Professor and Ph.D. Student
 
 - [About Me](#about-me)
 - [Research Interests](#research-interests)
@@ -18,7 +14,7 @@ title: Amanda Hoaglen - Academic Portfolio
 - [Contact](#contact)
 - [Follow Me](#follow-me)
 
-### About Me 
+## About Me 
 
 Greetings! 
 I'm Professor Amanda Hoaglen, but you may call me Professor H.  
@@ -29,7 +25,7 @@ Currently a doctorate student at UCF in the Texts and Technology program and str
 
 At this point in my career, my goal is to expand my teaching portfolio by teaching upper-level English courses at UCF, complete my doctorate at UCF, and publish two manuscripts of poetry. I look forward to sharing my passion for learning, the humanities, and writing with you.
 
-## Research Interests
+### Research Interests
 Being a scholar of interdisciplinary humanities, my interests are ecclectic and include poetry, Athenian philosophy, art history, critical media and women's studies, environment advocacy, and social justice pedagogy. 
 
 Additionally, I want to investigate play and pedagogy during my time in the Texts and Technology doctorate program at UCF.
@@ -37,7 +33,7 @@ Additionally, I want to investigate play and pedagogy during my time in the Text
 - In-person and digital role-playing games to nurture active learning in my classroom.
 - Alternative teaching methods and texts that encourage student engagement.
 
-## Presentations
+### Presentations
 - *Communications Support Center (ongoing)*
 - How to Write a College-Level Essay
 - MLA and Plagiarism
@@ -45,7 +41,7 @@ Additionally, I want to investigate play and pedagogy during my time in the Text
 - Great North American Destinations: Alaska and Ontario - 2009
 - Beyond the Genius: Albert Einstein - 2005
 
-## Publications
+### Publications
 - CSC Training Manual and Resource Guide - 2025
 - Humanities eTextbook, an Open Education Resource LibGuide - 2021
 - WPC Student Workers Handbook - 2008
@@ -53,23 +49,18 @@ Additionally, I want to investigate play and pedagogy during my time in the Text
 - WPC Safety and Crisis Management Team Handbook - 2005
 - FACC Handbook - 2003
 
-
 ## Contact
 - Email: am056240@ucf.edu 
 - Office: UCF, Trevor Colbourn Hall, Suite 236 
 
-## Follow Me
+### Follow Me
 - [LinkedIn](www.linkedin.com/in/amanda-hoaglen)
 - [Facebook](https://www.facebook.com/amanda.arb3)
 - [Instagram](https://www.instagram.com/arh.1066/)
 
 
 ## Navigation
-
 - [Curriculum Vitae](cv.md)
-
 - [Affiliations](socialmedia.md)
-
 - [Research / Projects](projects.md)
-
 - [Teaching](teaching.md)
