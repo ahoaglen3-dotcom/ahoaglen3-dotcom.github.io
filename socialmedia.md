@@ -4,10 +4,7 @@ title: Affiliations
 ---
 
 # Amanda Hoaglen
-## *Leader, Writer, Educator*
-
-- [Social Media](#social-media)
-- [Professional Affiliations](#professional-affiliations)
+# *Leader, Writer, Educator*
 
 
 ## Social Media
