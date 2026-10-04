@@ -13,7 +13,10 @@ By providing students with an abundance of primary resources, historical context
 
 - Freshman Composition I and II
 - New Student Experience
-- Introduction to Humanities (Ancient/Greek & Roman, Late Roman & Medieval, Renaissance & Baroque, 20th and 21st Century)
+- Introduction to Humanities 
+- Ancient/Greek & Roman Humanities
+- Renaissance & Baroque Humanities
+- 20th Century Humanities 
 
 ## Southern New Hampshire University
 

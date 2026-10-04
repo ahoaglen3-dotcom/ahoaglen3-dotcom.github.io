@@ -55,8 +55,8 @@ Additionally, I want to investigate play and pedagogy during my time in the Text
 
 
 ## Contact
-- Email: ahoaglen@valenciacollege.edu
-- Office: VC, WPC 1-136
+- Email: am056240@ucf.edu 
+- Office: UCF, Trevor Colbourn Hall, Suite 236 
 
 ## Follow Me
 - [LinkedIn](www.linkedin.com/in/amanda-hoaglen)
