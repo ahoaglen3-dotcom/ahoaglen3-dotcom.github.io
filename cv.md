@@ -2,8 +2,6 @@
 layout: default
 title: Curriculum Vitae
 ---
-# Amanda Hoaglen
-## *Leader, Writer, and Educator*
 
 # Curriculum Vitae
 
