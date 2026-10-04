@@ -22,7 +22,7 @@ At this point in my career, my goal is to expand my teaching portfolio by teachi
 - [Contact](#contact)
 - [Follow Me](#follow-me)
 
-### Research Interests
+## Research Interests
 Being a scholar of interdisciplinary humanities, my interests are ecclectic and include poetry, Athenian philosophy, art history, critical media and women's studies, environment advocacy, and social justice pedagogy. 
 
 Additionally, I want to investigate play and pedagogy during my time in the Texts and Technology doctorate program at UCF.
@@ -30,15 +30,15 @@ Additionally, I want to investigate play and pedagogy during my time in the Text
 - In-person and digital role-playing games to nurture active learning in my classroom.
 - Alternative teaching methods and texts that encourage student engagement.
 
-### Presentations
-- *Communications Support Center (ongoing)*
+## Presentations
+### *Communications Support Center (ongoing)*
 - How to Write a College-Level Essay
 - MLA and Plagiarism
-- *Guest Speaker, Valencia College Culture Club*
+### *Guest Speaker, Valencia College Culture Club*
 - Great North American Destinations: Alaska and Ontario - 2009
 - Beyond the Genius: Albert Einstein - 2005
 
-### Publications
+## Publications
 - CSC Training Manual and Resource Guide - 2025
 - Humanities eTextbook, an Open Education Resource LibGuide - 2021
 - WPC Student Workers Handbook - 2008
@@ -46,15 +46,14 @@ Additionally, I want to investigate play and pedagogy during my time in the Text
 - WPC Safety and Crisis Management Team Handbook - 2005
 - FACC Handbook - 2003
 
-### Contact or Follow Me
+## Contact or Follow Me
 - Email: am056240@ucf.edu 
 - Office: UCF, Trevor Colbourn Hall, Suite 236 
 - [LinkedIn](http://linkedin.com/in/amanda-hoaglen)
 - [Facebook](https://www.facebook.com/amanda.arb3)
 - [Instagram](https://www.instagram.com/arh.1066/)
 
-
-## Navigation
+### Navigation
 - [Curriculum Vitae](cv.md)
 - [Affiliations](socialmedia.md)
 - [Teaching](teaching.md)

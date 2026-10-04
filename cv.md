@@ -160,8 +160,7 @@ By providing students with an abundance of primary resources, historical context
 - Rollins College Scholarship — 2003
 
 
-## Navigation
-
+### Navigation
 - [Home](index.md)
 - [Affiliations](socialmedia.md)
 - [Teaching](teaching.md)
