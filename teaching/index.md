@@ -27,3 +27,9 @@ By providing students with an abundance of primary resources, historical context
 
 - Humanities eTextbook, an Open Education Resource LibGuide (2021)
 - Writing tip sheets on MLA formatting and documentation
+
+### Navigation
+- [Home](index.md)
+- [Curriculum Vitae](cv.md)
+- [Teaching](teaching.md)
+- [Projects](projects.md)

@@ -23,12 +23,8 @@ title: Affiliations
 
 - [Online Degrees, Southern New Hampshire University](https://www.snhu.edu/online-degrees)
 
-## Navigation
-
+### Navigation
 - [Home](index.md)
-
 - [Curriculum Vitae](cv.md)
-
-- [Research / Projects](projects.md)
-
 - [Teaching](teaching.md)
+- [Projects](projects.md)
