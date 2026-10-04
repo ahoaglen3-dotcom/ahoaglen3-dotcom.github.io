@@ -20,7 +20,7 @@ By providing you with an abundance of resources, context, and information, my st
 
 Currently a doctorate student at UCF in the Texts and Technology program, I strive to integrate digital humanities and play pedagogy into my classroom. I earned my Bachelor of Arts in Humanities and Master of Liberal Studies at Rollins College. To further my content knowledge, I completed a Masters of Arts degree in English Literature at the University of West Florida in 2023.
 
-## Professional Background
+## Teaching Statement
 I consider myself a educator for emerging adult learners. As a humanities and English composition instructor, as well as writing center supervisor at my campus. I believe that kindness, experiential learning, and coaching students through the writing process remain essential to the learning process. 
 
 ## Research Interests
@@ -39,9 +39,9 @@ Professor H.
 
 ## Navigation
 
-- [CV](cv.md)
+- [Curriculum Vitae](cv.md)
 
-- [Social Media](socialmedia.md)
+- [Affiliations](socialmedia.md)
 
 - [Research / Projects](projects.md)
 

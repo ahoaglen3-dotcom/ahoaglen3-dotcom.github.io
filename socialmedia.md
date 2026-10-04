@@ -1,10 +1,14 @@
 ---
 layout: default
-title: Social Media
+title: Affiliations
 ---
 
 # Amanda Hoaglen
 ## *Leader, Writer, Educator*
+
+- [Social Media](#social-media)
+- [Professional Affiliations](#professional-affiliations)
+
 
 ## Social Media
 
@@ -24,9 +28,9 @@ title: Social Media
 
 ## Navigation
 
-- [CV](cv.md)
+- [Home](index.md)
 
-- [Social Media](socialmedia.md)
+- [Curriculum Vitae](cv.md)
 
 - [Research / Projects](projects.md)
 

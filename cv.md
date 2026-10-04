@@ -20,7 +20,7 @@ title: Curriculum Vitae
 
 ## Professional Summary
 
-I am a student of the human condition and a lifelong educator. My assets include a firm grasp of English writing and humanities content, strong communication skills, analytic abilities, and community advocacy. A college employee for 25 years — including 17 years teaching — I have acquired deep knowledge of higher education. My experience as an instructor, public speaker, writer, and committee member qualifies me to be a leader and professor. With an appreciation for an online college's unique student body, as well as transferable leadership skills, I am committed to mentoring other faculty, staff, and students.
+I am a student of the human condition and a lifelong educator. My assets include a firm grasp of the  writing process and humanities content, strong communication skills, analytic abilities, and community advocacy. A college employee for 25 years — including 17 years teaching — I have acquired a deep knowledge of higher education. My experience as an instructor, public speaker, writer, and committee member qualifies me to be a leader and professor. With an appreciation for an online college's unique student body, I am committed to mentoring faculty, staff, and students.
 
 ## Key Qualifications and Skills
 
@@ -166,7 +166,7 @@ By providing students with an abundance of primary resources, historical context
 
 - [Home](index.md)
 
-- [Social Media](socialmedia.md)
+- [Affiliations](socialmedia.md)
 
 - [Research / Projects](projects.md)
 
