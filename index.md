@@ -60,6 +60,5 @@ Additionally, I want to investigate play and pedagogy during my time in the Text
 
 ### Navigation
 - [Curriculum Vitae](cv.md)
-- [Affiliations](socialmedia.md)
 - [Teaching](teaching.md)
 - [Projects](projects.md)

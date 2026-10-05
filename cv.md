@@ -162,6 +162,5 @@ By providing students with an abundance of primary resources, historical context
 
 ### Navigation
 - [Home](index.md)
-- [Affiliations](socialmedia.md)
 - [Teaching](teaching.md)
 - [Projects](projects.md)
