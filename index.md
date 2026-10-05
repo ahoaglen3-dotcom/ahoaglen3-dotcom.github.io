@@ -53,6 +53,11 @@ Additionally, I want to investigate play and pedagogy during my time in the Text
 - [Facebook](https://www.facebook.com/amanda.arb3)
 - [Instagram](https://www.instagram.com/arh.1066/)
 
+## Professional Affiliations
+- [Texts and Technology Ph.D., University of Central Florida](https://cah.ucf.edu/textstech/)
+- [Learning Support, Valencia College](https://valenciacollege.edu/students/learning-support/index.php)
+- [Online Degrees, Southern New Hampshire University](https://www.snhu.edu/online-degrees)
+
 ### Navigation
 - [Curriculum Vitae](cv.md)
 - [Affiliations](socialmedia.md)
